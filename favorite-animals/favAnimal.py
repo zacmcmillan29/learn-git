@@ -1,1 +1,2 @@
-print("My favorite animal is a wolf!")
+print("Your favorite animal is a wolf! Oh yeah!")
+print("I like this a lot!")
